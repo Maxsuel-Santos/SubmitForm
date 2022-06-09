@@ -69,6 +69,7 @@ body {
   top: -35px;
   left: 0;
   color: #ff7337;
+  background-color: transparent !important;
 }
 
 button {
