@@ -4,7 +4,7 @@
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif !important;
 }
 
 html {
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background-color: #040b25;
+  background-color: #040b25 !important;
 }
 
 .login-box {
