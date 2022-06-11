@@ -11,6 +11,10 @@
     box-shadow: 0 15px 25px $whiteShadowTwo;
     border-radius: 10px;
 }
+
+form {
+    animation: fade .7s ease-in-out forwards;
+}
   
 .login-box h2 {
     margin: 0 0 30px;
